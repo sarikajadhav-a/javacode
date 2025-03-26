@@ -1,0 +1,4 @@
+hii, I am Sarika
+ git config --global user.email "jadhavsarika1301@gmail.com.com"
+  git config --global user.name "sarikajadhav-a"
+
